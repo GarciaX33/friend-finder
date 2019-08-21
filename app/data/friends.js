@@ -1,7 +1,7 @@
 var friends = [
     {
         "name":"Daniel",
-        "image":"N/A",
+        "photo":"N/A",
         "scores":[
             5,
             1,
@@ -16,8 +16,8 @@ var friends = [
           ]
       },
       {
-        "name":"Chris",
-        "image":"N/A",
+        "name":"Alex",
+        "photo":"N/A",
         "scores":[
             5,
             2,
@@ -33,8 +33,8 @@ var friends = [
       },
     
     {
-        "name":"Dave",
-        "image":"N/A",
+        "name":"Chris",
+        "photo":"N/A",
         "scores":[
             1,
             2,
@@ -49,8 +49,8 @@ var friends = [
           ]
       },
       {
-        "name":"Bill",
-        "image":"N/A",
+        "name":"Paul",
+        "photo":"N/A",
         "scores":[
             5,
             2,
@@ -65,8 +65,8 @@ var friends = [
           ]
       },
       {
-        "name":"Sue",
-        "image":"N/A",
+        "name":"John",
+        "photo":"N/A",
         "scores":[
             3,
             2,
@@ -81,8 +81,8 @@ var friends = [
           ]
       },
       {
-        "name":"Deb",
-        "image":"N/A",
+        "name":"Joe",
+        "photo":"N/A",
         "scores":[
             1,
             2,
@@ -97,8 +97,8 @@ var friends = [
           ]
       },
       {
-        "name":"Will",
-        "image":"N/A",
+        "name":"David",
+        "photo":"N/A",
         "scores":[
             2,
             2,
@@ -113,8 +113,8 @@ var friends = [
           ]
       },
       {
-        "name":"Slim",
-        "image":"N/A",
+        "name":"Dawson",
+        "photo":"N/A",
         "scores":[
             1,
             2,
@@ -129,8 +129,8 @@ var friends = [
           ]
       },
       {
-        "name":"Phil",
-        "image":"N/A",
+        "name":"Kell",
+        "photo":"N/A",
         "scores":[
             1,
             2,
@@ -145,8 +145,8 @@ var friends = [
           ]
       },
       {
-        "name":"Armando",
-        "image":"N/A",
+        "name":"Steven",
+        "photo":"N/A",
         "scores":[
             5,
             2,
